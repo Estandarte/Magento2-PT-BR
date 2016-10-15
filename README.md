@@ -6,13 +6,13 @@ Tradução Magento2 Português Brasil
 ### Via Composer
 
 ```sh
-composer require bleez/magento2-pt_br
+composer require estandarte/magento2-pt_br
 ```
 
-### Manual 
+### Manual
 
 - Baixe o Zip
-- Crie as pastas i18n/bleez/ no diretório app
+- Crie as pastas i18n/estandarte/ no diretório app
 - Extraia os arquivos
 
 ## Como Contribuir
@@ -21,7 +21,7 @@ composer require bleez/magento2-pt_br
 - Fork o repositorio e envie um pull request ou edite no github
 
 ## Contribuidores
-
+- [leandrorchaves](https://github.com/leandrorchaves)
 - [r-martins](https://github.com/r-martins)
 - [iiagolima](https://github.com/iiagolima)
 - [rafaelstz](https://github.com/rafaelstz)

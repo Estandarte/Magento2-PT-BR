@@ -1,7 +1,7 @@
 {
-    "name": "bleez/magento2-pt_br",
-    "description": "Magento2 pt_BR - Traduzido por Agência Bleez",
-    "version": "0.0.1",
+    "name": "estandarte/magento2-pt_br",
+    "description": "Tradução do Magento 2 para PT-BR",
+    "version": "0.0.2",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
