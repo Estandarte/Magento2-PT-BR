@@ -41,7 +41,7 @@ Checkout,Checkout
 "We can't find the product.","We can't find the product."
 "The product does not exist.","The product does not exist."
 "We don't have some of the products you want.","We don't have some of the products you want."
-"We don't have as many of some products as you want.","We don't have as many of some products as you want."
+"We don't have as many of some products as you want.","Não temos a quantidade de produtos que você deseja."
 "Quantity was recalculated from %1 to %2","Quantity was recalculated from %1 to %2"
 "Some products quantities were recalculated because of quantity increment mismatch.","Some products quantities were recalculated because of quantity increment mismatch."
 "This quote item does not exist.","This quote item does not exist."
